@@ -3,3 +3,5 @@ Firmware/Debug/
 Firmware/.settings/
 *.launch
 *.project
+*.mxproject
+*.cproject
