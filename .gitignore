@@ -1,3 +1,5 @@
 Firmware/Includes/
 Firmware/Debug/
+Firmware/.settings/
 *.launch
+*.project
